@@ -27,6 +27,6 @@ A simple and clean React app that fetches inspirational quotes from a public API
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/quotes-redux-app.git
-cd quotes-redux-app
+git clone https://github.com/SanyaShresta25/state-management-using-redux.git
+cd my-app
 
